@@ -11,7 +11,7 @@ Week 1: 13,14,11,17,19
 Week 2: 26,23,22,22,14
 Week 3: 17,19,13,16,17
 
-
+![Alt Itext](https://github.com/sahidul-shaikh/stock-market-analysis-with-sql/blob/main/MA-Image.png?raw=True)
 
 As you can see, Moving average use the past data to smoothen the price curve. For the purpose of this assignment, we will be using 20 Day and 50 Day moving averages.
 
