@@ -13,9 +13,9 @@ Week 3: 17,19,13,16,17
 
 ![Alt Itext](https://github.com/sahidul-shaikh/stock-market-analysis-with-sql/blob/main/MA-Image.png?raw=True)
 
-As you can see, Moving average use the past data to smoothen the price curve. For the purpose of this assignment, we will be using 20 Day and 50 Day moving averages.
+As We can see, Moving average use the past data to smoothen the price curve. For the purpose of this assignment, we will be using 20 Day and 50 Day moving averages.
 
-Now that you know about the concept of Moving average, you shall be wondering how to use it to determine whether to buy or sell a stock.
+Now that we know about the concept of Moving average, we shall be wondering how to use it to determine whether to buy or sell a stock.
 
 When the shorter-term moving average crosses above the longer-term moving average, it is a signal to **BUY**, as it indicates that the trend is shifting up. This is known as a Golden Cross.
 
@@ -23,7 +23,7 @@ On the opposite when the shorter term moving average crosses below the longer te
 
 Please note that it is important that the Moving Averages Cross each other in order to generate a signal. Merely being above or below is not sufficient to generate a signal.
 
-When the signal is neither buy nor sell, it is classified as hold. If you already own the stock, keep it and if you don't then don't buy it now.
+When the signal is neither buy nor sell, it is classified as hold. If we already own the stock, keep it and if we don't then don't buy it now.
 
 ## Data Set
 
@@ -46,7 +46,7 @@ Data - Bajaj - TCS - TVS - Infosys - Eicher - Hero
 The table header should appear as below:
 Date - Close Price - Signal
 4. Create a User defined function, that takes the date as input and returns the signal for that particular day (Buy/Sell/Hold) for the Bajaj stock.
-5. Write a brief summary of the results obtained and what inferences you can draw from the analysis performed.
+5. Write a brief summary of the results obtained and what inferences we can draw from the analysis performed.
 
 
 
